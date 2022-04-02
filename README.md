@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/rob_bond"><img src="https://github.com/RobertObrochta/RobertObrochta/blob/main/devcard.svg" width="400" alt="Robert Obrochta's Dev Card"/></a>
+<a href="https://app.daily.dev/rob_bond"><img src="https://github.com/RobertObrochta/RobertObrochta/blob/main/devcard.svg" width="325" alt="Robert Obrochta's Dev Card"/></a>
 
 <!--
 **RobertObrochta/RobertObrochta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
